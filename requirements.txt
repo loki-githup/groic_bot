@@ -1,0 +1,4 @@
+lwebsocket-client
+python-dotenv
+requests
+playwright
